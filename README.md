@@ -1,0 +1,2 @@
+# KontorsNissen
+här kommer galenskapen
