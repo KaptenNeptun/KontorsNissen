@@ -1,6 +1,11 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: 77a33a6d67d18b5429152216368be019
 timeCreated: 1436968770
+=======
+guid: e48dda46d4a14f6489d0a385e4a2241e
+timeCreated: 1436965976
+>>>>>>> origin/master
 licenseType: Free
 ModelImporter:
   serializedVersion: 18
@@ -21,10 +26,13 @@ ModelImporter:
     bakeSimulation: 0
     optimizeGameObjects: 0
     motionNodeName: 
+<<<<<<< HEAD
     animationImportErrors: 
     animationImportWarnings: 
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
+=======
+>>>>>>> origin/master
     animationCompression: 1
     animationRotationError: .5
     animationPositionError: .5
